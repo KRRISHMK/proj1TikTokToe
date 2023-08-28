@@ -10,7 +10,7 @@ The default template project for [nano-react-app](https://github.com/adrianmcli/
 You can use the `-p` flag to specify a port for development. To do this, you can either run `npm start` with an additional flag:
 
 ```
-npm start -- -p 3000
+npm start -- -p 3000 PORT
 ```
 
 Or edit the `start` script directly:
